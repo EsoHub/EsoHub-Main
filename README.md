@@ -12,6 +12,18 @@ Use the script below or go to the MainScript.lua file and execute that script.
 print("The script is not yet finished, stay tuned.")
 ```
 
+# Open Source
+
+This script will not be open sourced. Do not ask for the source.
+
+# Report a Bug
+
+You can report a bug by opening a issue on the GitHub repository or by telling us in our Discord server (link can be found below).
+
+# Discord Server
+
+Discord Server Link Coming Soon
+
 # Release Date
 
 We are unsure of when we will release Eso Hub but we are working hard to improve the script everyday.
