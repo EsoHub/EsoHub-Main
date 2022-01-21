@@ -14,7 +14,21 @@ print("The script is not yet finished, stay tuned.")
 
 # Release Date
 
-We are unsure of when we will release Eso Hub but we are working hard to improve the script everyday. 
+We are unsure of when we will release Eso Hub but we are working hard to improve the script everyday.
+
+# Development
+
+Below, you can find the status for the development of Eso Hub.
+
+Loader - Under Development
+
+Universal Scripts - Under Development
+
+Arsenal Script - Under Development
+
+Ninja Legends Script - Finished
+
+Phantom Forces - Under Development
 
 # Old Version
 
