@@ -14,7 +14,7 @@ print("The script is not yet finished, stay tuned.")
 
 # Open Source
 
-This script will not be open sourced. Do not ask for the source.
+This script will not be open sourced however, we may post the source of it's old version on GitHub when EsoHub v3 releases.
 
 # Report a Bug
 
